@@ -1,0 +1,8 @@
+requests
+dotenv
+sqlalchemy
+pytest
+pydantic
+flask
+flask-bcrypt
+psycopg2
